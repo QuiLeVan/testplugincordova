@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.quilv.test" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>quilv_test_plugin</name>
+    <js-module name="quilv_test_plugin" src="www/quilv_test_plugin.js">
+        <clobbers target="cordova.plugins.quilv_test_plugin" />
+    </js-module>
+</plugin>

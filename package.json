@@ -1,0 +1,22 @@
+{
+  "name": "com.quilv.test",
+  "version": "0.0.1",
+  "description": "test plugin",
+  "cordova": {
+    "id": "com.quilv.test",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuiLeVan/testplugincordova.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "quilv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuiLeVan/testplugincordova/issues"
+  },
+  "homepage": "https://github.com/QuiLeVan/testplugincordova#readme"
+}
